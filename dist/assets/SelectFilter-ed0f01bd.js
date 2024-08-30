@@ -1,0 +1,1 @@
+import{j as t,ab as l}from"./index-c7565a54.js";const a=e=>t.jsx(l,{value:e.value,autoWidth:!0,size:"small",sx:{fontWeight:"bold",borderRadius:"10px",width:e.fullWidth?"100%":"120px",color:"#004179","&: hover":{},"&: focus":{}},onChange:e.onChange,children:e.items});export{a as S};
